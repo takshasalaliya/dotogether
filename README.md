@@ -25,5 +25,5 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/dotogether.git
+   git clone https://github.com/takshasalaliya/dotogether.git
    cd dotogether
